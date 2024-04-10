@@ -1,0 +1,23 @@
+1. ¿Cuál de las siguientes afirmaciones describe mejor la arquitectura de NestJS?
+   a) Está basada en el patrón MVC (Modelo-Vista-Controlador).
+   b) Utiliza el patrón de diseño Singleton para gestionar los módulos.
+   c) Implementa exclusivamente el patrón de diseño de Middleware.
+
+1. Respuesta: a) Está basada en el patrón MVC (Modelo-Vista-Controlador).
+   Explicación: NestJS sigue el patrón MVC para organizar la aplicación.
+
+2. ¿Qué módulo de NestJS se utiliza para la integración con bases de datos relacionales como PostgreSQL o MySQL?
+   a) @nestjs/typeorm
+   b) @nestjs/graphql
+   c) @nestjs/mongoose
+
+2. Respuesta: a) @nestjs/typeorm
+   Explicación: Para integrar NestJS con bases de datos relacionales como PostgreSQL o MySQL, se usa `@nestjs/typeorm`.
+
+3. ¿Qué decorador de NestJS se utiliza para definir un endpoint HTTP GET en un controlador?
+   a) @Get
+   b) @Post
+   c) @Put
+   
+3. Respuesta: a) @Get
+   Explicación: Para definir un endpoint HTTP GET en un controlador en NestJS, se emplea el decorador `@Get`.
