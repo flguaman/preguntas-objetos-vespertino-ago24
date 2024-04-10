@@ -1,0 +1,16 @@
+Preguntas reflexivas:
+
+1. ¿Qué tipos de comillas son admitidas en los strings?
+a. Comillas simples
+b. Comillas triples
+c. El string va sin comillas
+
+2. ¿Cuál es el límite numérico de un dato number?
+a. 1.000.000
+b. 1.000
+c. Ninguno, no tiene límites
+
+3. ¿Qué hace a nestjs tan eficiente ante otros?
+a) Su apariencia
+b) Su eficiencia
+c) JavaScript
