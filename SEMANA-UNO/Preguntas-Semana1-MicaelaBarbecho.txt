@@ -1,0 +1,15 @@
+1.	¿Cuál es su propósito de Express?
+a.	Tiene como objetivo simplificar el proceso de desarrollo de aplicaciones web con Node.js
+b.	Es más que un mero modulo.
+c.	El directorio public/ se usa para almacenar archivos.
+ANSWER: A
+2.	¿Cuál es la diferencia entre nodejs y Express?
+a. Permite trabajar con JSON
+b. Se puede añadir características interactivas.
+c. Nodejs está adaptada con JavaScript mientras que Express es solo una libreta.
+ANSWER: C
+3.	¿Cuáles son los principios de Nodejs?
+a.	La librería subyacente para frameworks.
+b.	Node.js ayudan a guiar el desarrollo y la arquitectura de aplicaciones.
+c.	Usar su modelo de entrada y salida sin bloquear.
+ANSWER: B
