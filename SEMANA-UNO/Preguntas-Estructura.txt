@@ -1,0 +1,11 @@
+3 Preguntas Reflexivas deben seguir la siguiente estructura
+
+¿Cuál es la respuesta correcta a esta pregunta?[#de la Semana] 
+
+A. ¿Es esta? 
+
+B. ¿Quizá esta? 
+
+C. ¿Tal vez esta otra? 
+
+ANSWER: C
