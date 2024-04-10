@@ -2,18 +2,17 @@
 a) Simplificar el diseño de interfaces gráficas.
 b) Facilitar la creación de aplicaciones frontend.
 c) Mejorar la eficiencia y la homogeneidad en proyectos backend.
-Respuesta correcta: c) Mejorar la eficiencia y la homogeneidad en proyectos backend.
+ANSWER: C
 
 2.- ¿Qué paradigma de programación promueve NestJS para la organización del código?
 a) Programación funcional.
 b) Programación orientada a objetos.
 d) Programación lógica.
-Respuesta correcta: b) Programación orientada a objetos.
+ANSWER: B
 
 3.- ¿Cuál es el lenguaje principal utilizado en NestJS?
 a) JavaScript
 b) TypeScript
 c) Python
 d) Java
-Respuesta correcta: b) TypeScript
-
+ANSWER: B
