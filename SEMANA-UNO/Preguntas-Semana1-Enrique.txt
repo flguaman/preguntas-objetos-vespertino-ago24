@@ -7,7 +7,6 @@ B. ¿Revisar la version? 
 C. ¿Levantar un proyecto ?
 ANSWER: C
 
-
 ¿El Hola Mundo en que direccion se encuentra?
 
 A. ¿Local host 200?
