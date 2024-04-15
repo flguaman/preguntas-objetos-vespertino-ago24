@@ -1,0 +1,20 @@
+Pregunta 1: Django
+
+Enfoque de desarrollo:
+
+Basado en convenciones Basado en configuraciones Basado en componentes 
+
+Respuesta: a) Basado en convenciones
+
+Django es conocido por su filosofía de desarrollo "basada en convenciones sobre configuraciones", lo que significa que los desarrolladores pueden seguir pautas establecidas en lugar de tener que especificar explícitamente cada detalle de la aplicación. Esto simplifica el proceso de desarrollo y facilita la creación de aplicaciones web robustas y mantenibles.
+
+Pregunta 2: .NET
+
+Lenguajes de programación compatibles:
+
+C# Java Python 
+
+Respuesta: a) C#
+
+.NET es un marco de desarrollo de software creado por Microsoft, y su lenguaje de programación principal es C#. C# es un lenguaje de programación moderno, orientado a objetos y de alto rendimiento que es ampliamente utilizado para desarrollar aplicaciones web, aplicaciones de escritorio y servicios web.
+
